@@ -2,7 +2,7 @@
 title: "Causal Decomposition Analysis with Time-Varying Mediators: Designing Individualized Interventions to Reduce Social Disparities"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/my-paper-2
 # excerpt: 'This paper is a collaborative work'
 date: 2024-07-26
 venue: 'Sociological Methods & Research'
