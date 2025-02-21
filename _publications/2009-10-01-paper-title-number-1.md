@@ -3,12 +3,12 @@ title: "A Joint Modeling Approach to Treatment Effects Estimation with Unmeasure
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper is recognized with the Health Policy Statistics Section (HPSS) Student Paper Competition Award.'
+# date: 
+venue: 'Preprints'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://arxiv.org/abs/2411.10980'
+citation: 'Lee, N., Hu, G., Ma, S. (2024). arxiv'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Estimating treatment effects using observation data often relies on the assumption of no unmeasured confounders. However, unmeasured confounding variables may exist in many real-world problems. It can lead to a biased estimation without incorporating the unmeasured confounding effect. To address this problem, this paper proposes a new mixed-effects joint modeling approach to identifying and estimating the outcome regression function and the propensity score function in the presence of unmeasured confounders in clustered data. As a result, we can obtain the estimators of the average treatment effect and heterogeneous treatment effects. In our proposed setting, we allow interaction effects of the treatment and unmeasured confounders on the outcome. We also allow the joint models for the outcome regression and propensity score functions to depend on the same unmeasured confounders with different coefficients. Moreover, we propose a new Laplacian-variant EM algorithm to estimate the parameters in the joint models. We apply the method to a real-world application from the CitieS-Health Barcelona Panel Study, in which we study the effect of short-term air pollution exposure on mental health.
