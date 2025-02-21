@@ -16,6 +16,6 @@ My primary research interest lies in causal inference, with a focus on applying 
 Recent News
 ======
 
-- Feb. 2025: I have been selected to receive a Dissertation Completion Fellowship Award (DCFA) for Spring/Summer 2025.
-- Jan. 2025: I have been awarded Health Policy Statistics Section Student Paper Competition Award.
+- **Feb. 2025**: I have been selected to receive a Dissertation Completion Fellowship Award (DCFA) for Spring/Summer 2025.
+- **Jan. 2025**: I have been awarded Joint Statistical Meeting (JSM), Health Policy Statistics Section (HPSS) Student Paper Competition Award.
 
