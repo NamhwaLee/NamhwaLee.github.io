@@ -3,7 +3,7 @@ title: "Causal Decomposition Analysis with Time-Varying Mediators: Designing Ind
 collection: publications
 category: manuscripts
 permalink: /publication/my-paper-2
-# excerpt: 'This paper is a collaborative work while '
+excerpt: 'Collaborative work with Dr. Park'
 date: 2024-07-26
 venue: 'Sociological Methods & Research'
 #slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
