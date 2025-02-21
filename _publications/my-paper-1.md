@@ -2,7 +2,7 @@
 title: "A Joint Modeling Approach to Treatment Effects Estimation with Unmeasured Confounders in Clustered Data"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/my-paper-1
 excerpt: 'This paper is recognized with the Health Policy Statistics Section (HPSS) Student Paper Competition Award.'
 # date: 
 venue: 'Preprints'
