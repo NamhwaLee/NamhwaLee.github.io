@@ -3,8 +3,8 @@ title: "A Joint Modeling Approach to Treatment Effects Estimation with Unmeasure
 collection: publications
 category: manuscripts
 permalink: /publication/my-paper-1
-excerpt: 'This paper is recognized with the Health Policy Statistics Section (HPSS) Student Paper Competition Award.'
-# date: 
+excerpt: 'This paper is recognized with the Health Policy Statistics Section (HPSS) Student Paper Competition Award. There will be a minor update soon.'
+date: '2024-11-17'
 venue: 'Preprints'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2411.10980'
