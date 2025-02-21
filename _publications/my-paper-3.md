@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/my-paper-3
 excerpt: 'In Revision, Journal for Research in Mathematics Education.'
 date: 2023-11-03
-# venue: 'Journal 1'
+venue: 'Preprint'
 # slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://osf.io/preprints/osf/kh9m5_v1'
 citation: 'Park, S., Lee, N., and Atit, K. Examining the role of undergraduate calculus in the persistence of underrepresented students in the stem pipeline.'
