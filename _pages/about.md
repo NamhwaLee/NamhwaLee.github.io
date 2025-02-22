@@ -26,5 +26,6 @@ Recent News
 Life in SoCal
 ======
 
-![UCR-Donkeys](/files/UCR-donkeys.mov)
-
+<video width="320" height="240" controls>
+  <source src="/files/UCR-donkeys.mov" >
+</video>
