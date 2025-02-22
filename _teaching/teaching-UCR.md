@@ -8,11 +8,7 @@ date: 2021-09-28 ~ Present
 location: "Riverside, CA, USA"
 ---
 
-Includes multiple basic and advanced statistics courses.
-
-<details open>
-
-<summary>List of Courses</summary>
+Clicks for lists of courses.
 
 Basic Statistics Courses
 =====
@@ -29,5 +25,3 @@ Advanced Statistics Courses
 - STAT170: Regression Analysis
 - STAT171: General Statistical Models
 - STAT183: Statistical Consulting
-
-</details>
