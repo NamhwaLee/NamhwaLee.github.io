@@ -8,11 +8,8 @@ date: 2018-03-01 ~ 2020-02-28
 location: "Seoul, Korea"
 ---
 
-Includes multiple courses regarding statistical models and computing.
+Click for lists of courses.
 
-<details open>
-
-<summary>List of Courses</summary>
 
 Statistics Courses
 =====
@@ -27,5 +24,3 @@ Statistical Computing Courses
 
 - Introduction to Statistical Computing
 - R Programming & SAS Programming
-
-</details>
