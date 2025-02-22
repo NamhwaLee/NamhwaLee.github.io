@@ -10,7 +10,7 @@ location: "Riverside, CA, USA"
 
 Includes multiple basic and advanced statistics courses.
 
-<details>
+<details open>
 
 <summary>List of Courses</summary>
 
