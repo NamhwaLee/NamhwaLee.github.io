@@ -1,7 +1,7 @@
 ---
 title: "Teaching Assistant in SKKU"
 collection: teaching
-type: "Undergraduate course"
+type: "Teaching Assistant"
 permalink: /teaching/teaching-SKKU
 venue: "Department of Statistics, Sungkyunkwan University"
 date: 2018-03-01 ~ 2020-02-28
