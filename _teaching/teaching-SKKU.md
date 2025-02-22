@@ -10,7 +10,6 @@ location: "Seoul, Korea"
 
 Statistics Courses
 ======
-
 - Mathematics for Statistics
 - Introduction to Matrix Algebra
 - Introduction to Regression Analysis
@@ -18,6 +17,5 @@ Statistics Courses
 
 Statistical Computing Courses
 ======
-
 - Introduction to Statistical Computing
 - R Programming & SAS Programming
