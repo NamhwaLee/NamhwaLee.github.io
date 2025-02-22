@@ -8,8 +8,6 @@ date: 2021-09-28 ~ Present
 location: "Riverside, CA, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Basic Statistics Courses
 ======
 - STAT004: Elements of Data Science
