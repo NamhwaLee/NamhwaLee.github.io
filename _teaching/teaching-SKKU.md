@@ -17,9 +17,9 @@ location: "Seoul, Korea"
 - Introduction to Regression Analysis
 - Introduction to Sampling Theory
 
+<details open>
+
 <summary>Statistical Computing Courses</summary>
 
 - Introduction to Statistical Computing
 - R Programming & SAS Programming
-
-<details>
