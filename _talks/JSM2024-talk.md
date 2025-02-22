@@ -9,5 +9,4 @@ location: "Portland, Oregon"
 ---
 
 15 minute presentation at topic contributed session in *Methodological Advancements in Causal Inference and Measurement for Mental Health Applications*
-
 [Slides here](/files/JSM_Presentation_Slides.pdf)
