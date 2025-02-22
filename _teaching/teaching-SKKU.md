@@ -10,7 +10,7 @@ location: "Seoul, Korea"
 
 Includes multiple courses regarding statistical models and computing.
 
-<details>
+<details open>
 
 <summary>List of Courses</summary>
 
