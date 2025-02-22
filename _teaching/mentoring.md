@@ -1,6 +1,6 @@
 ---
 title: "Statistical Mentoring in Application, Research, and Technology Program (SMART)"
-collection: mentoring
+collection: teaching
 type: "Mentor Undergraduate"
 permalink: /teaching/mentoring
 venue: "Department of Statistics, UC-Riverside"
