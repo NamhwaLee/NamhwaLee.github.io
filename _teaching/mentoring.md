@@ -4,7 +4,7 @@ collection: mentoring
 type: "Mentor Undergraduate"
 permalink: /teaching/mentoring
 venue: "Department of Statistics, UC-Riverside"
-date: "Spring 2024"
+date: Spring 2024
 location: "Riverside, CA, USA"
 ---
 
