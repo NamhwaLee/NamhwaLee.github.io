@@ -1,5 +1,5 @@
 ---
-title: "Treatment Effects Estimation with Unmeasured Confounders"
+title: "Treatment Effects Estimation with Unmeasured Confounding Variables"
 collection: talks
 type: "Talk"
 permalink: /talks/JSM2024-talk
