@@ -8,14 +8,18 @@ date: 2018-03-01 ~ 2020-02-28
 location: "Seoul, Korea"
 ---
 
-Statistics Courses
-======
+<details open>
+
+<summary>Statistics Courses</summary>
+
 - Mathematics for Statistics
 - Introduction to Matrix Algebra
 - Introduction to Regression Analysis
 - Introduction to Sampling Theory
 
-Statistical Computing Courses
-======
+<summary>Statistical Computing Courses</summary>
+
 - Introduction to Statistical Computing
 - R Programming & SAS Programming
+
+<details>
