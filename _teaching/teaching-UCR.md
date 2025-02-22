@@ -13,12 +13,14 @@ location: "Riverside, CA, USA"
 <summary>List of Courses</summary>
 
 ### Basic Statistics Courses
+
 - STAT004: Elements of Data Science
 - STAT008: Statistics for Business
 - STAT010/011: Introduction to Statistics
 - STAT200: Foundationoal Methods for Business Analytics
 
 ### Advanced Statistics Courses
+
 - STAT146: Statistical Forecasting Techniques
 - STAT170: Regression Analysis
 - STAT171: General Statistical Models
