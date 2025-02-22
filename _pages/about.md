@@ -23,9 +23,9 @@ Recent News
 - **May. 2024**: Honored to receive the *Outstanding Teaching Assistant Award*.
 
 
-Life in SoCal
+Life in UCR
 ======
 
-<video width="320" height="240" controls>
-  <source src="/files/UCR-donkeys.mov" >
+<video>
+  <source src="/files/UCR-donkeys.mov" controls="controls" style="max">
 </video>
