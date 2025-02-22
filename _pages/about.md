@@ -16,7 +16,7 @@ My primary research interest lies in causal inference, with a focus on applying 
 Recent News
 ======
 
-- I am currently seeking postdoctoral research positions specializing in **causal inference**.
+- I am currently seeking postdoctoral researcher positions specializing in **causal inference**.
 - **Feb. 2025**: Awarded the *Dissertation Completion Fellowship Award (DCFA)* for Spring/Summer 2025.
 - **Jan. 2025**: Received the *Health Policy Statistics Section (HPSS) Student Paper Competition Award* at the *Joint Statistical Meetings (JSM) 2025*.
 - **Aug. 2024**: Excited to present my first research project at JSM 2024—marking my first academic conference presentation!
