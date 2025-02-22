@@ -13,6 +13,7 @@ location: "Seoul, Korea"
 <summary>List of Courses</summary>
 
 ### Statistics Courses
+
 - Mathematics for Statistics
 - Introduction to Matrix Algebra
 - Introduction to Regression Analysis
