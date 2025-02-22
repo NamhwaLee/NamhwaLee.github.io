@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience in SKKU"
+title: "Teaching Assistant in SKKU"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/teaching-SKKU
