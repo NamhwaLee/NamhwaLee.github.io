@@ -13,4 +13,4 @@ Mentor undergraduate students on statistical analysis and research.
 Project topic: Statistical Data Mining with *R*
 =====
 
-[Proposal Slides here]()
+[Proposal Slides here](/files/SMART_Program_Proposal.pdf)
