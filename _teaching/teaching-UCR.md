@@ -8,7 +8,7 @@ date: 2021-09-28 ~ Present
 location: "Riverside, CA, USA"
 ---
 
-Clicks for lists of courses.
+Click for lists of courses.
 
 Basic Statistics Courses
 =====
