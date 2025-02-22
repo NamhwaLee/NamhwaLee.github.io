@@ -8,7 +8,7 @@ date: "Spring 2024"
 location: "Riverside, CA, USA"
 ---
 
-Mentor undergraduate students on statistical analysis and research.
+Mentor a undergraduate student on statistical analysis and research.
 
 Project topic: Statistical Data Mining with *R*
 =====
