@@ -21,3 +21,11 @@ Recent News
 - **Jan. 2025**: Received the *Health Policy Statistics Section (HPSS) Student Paper Competition Award* at the *Joint Statistical Meetings (JSM) 2025*.
 - **Aug. 2024**: Excited to present my first research project at JSM 2024—marking my first academic conference presentation!
 - **May. 2024**: Honored to receive the *Outstanding Teaching Assistant Award*.
+
+Contact Info
+======
+email: 
+- nlee098@ucr.edu
+- 2navism@gmail.com
+
+
