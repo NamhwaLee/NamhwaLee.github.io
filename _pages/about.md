@@ -22,10 +22,11 @@ Recent News
 - **Aug. 2024**: Excited to present my first research project at JSM 2024—marking my first academic conference presentation!
 - **May. 2024**: Honored to receive the *Outstanding Teaching Assistant Award*.
 
-Contact Info
+Contact Info: Email Address
 ======
-email: 
+
 - nlee098@ucr.edu
+or 
 - 2navism@gmail.com
 
 
