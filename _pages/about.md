@@ -30,3 +30,7 @@ or
 - 2navism@gmail.com
 
 
+Fun Fact About Myself
+======
+
+I was the president of the SKKU Go (Baduk) club. When AlphaGo, developed by Google DeepMind, played against Lee Sedol, one of the world’s top Go players at the time, I recruited new club members by streaming the historic match. As a Baduk trainee, I was confident that Lee Sedol would dominate the game, testing DeepMind's AI against human expertise. However, as we all know, AlphaGo decisively defeated Lee Sedol, and this moment profoundly changed my perspective. Witnessing the power of computational machine learning firsthand sparked my curiosity and ultimately led me to pursue higher education in Statistics. Although I’ve forgotten most of my Baduk strategies over time, I still hope to revisit the game and perhaps connect my understanding of Baduk to my knowledge of AI and machine learning—beyond my academic work. 
