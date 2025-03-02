@@ -9,4 +9,4 @@ location: "Nashville, Tennessee"
 ---
 
 Opportunity to present my work at an *Health Policy Statistics Section* organized Topic Contributed Session at *Joint Statistical Meeting 2025* as a winner of the HPSS Student Paper Competition.
-Detailed date will be updated. 
+A detailed date will be updated. 
